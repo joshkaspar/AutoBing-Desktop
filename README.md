@@ -5,10 +5,10 @@ A lightweight PowerShell script that automatically fetches Bing’s image of the
 
 ## Features
 
-📥 Downloads Bing’s daily wallpaper in UHD or a resolution of your choice
-🧭 Supports regional variations (e.g. en-US, ja-JP, etc.)
-💻 Auto-detects screen resolution when desired
-✅ Can set the downloaded image as your desktop wallpaper
+📥 Downloads Bing’s daily wallpaper in UHD or a resolution of your choice  
+🧭 Supports regional variations (e.g. en-US, ja-JP, etc.)  
+💻 Auto-detects screen resolution when desired  
+✅ Can set the downloaded image as your desktop wallpaper  
 
 ---
 
