@@ -1,8 +1,6 @@
 # AutoBing-Desktop
 A lightweight PowerShell script that automatically fetches Bing’s image of the day, downloads it in your preferred resolution and region, sets it as your desktop wallpaper.
 
----
-
 ## Features
 
 📥 Downloads Bing’s daily wallpaper in UHD or a resolution of your choice  
