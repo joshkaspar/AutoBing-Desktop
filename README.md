@@ -10,8 +10,6 @@ A lightweight PowerShell script that automatically fetches Bing’s image of the
 💻 Auto-detects screen resolution when desired  
 ✅ Can set the downloaded image as your desktop wallpaper  
 
----
-
 ## Usage
 
 ```powershell
@@ -25,8 +23,6 @@ A lightweight PowerShell script that automatically fetches Bing’s image of the
 * `-SetWallpaper` — apply the image to your desktop
 * `-KeepOld` — keep previously downloaded images
 * `-Files` — how many days of images to download (max: 8)
-
----
 
 ## Credits
 
