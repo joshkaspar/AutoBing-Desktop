@@ -24,7 +24,7 @@ A lightweight PowerShell script that automatically fetches Bing’s image of the
 
 ## Credits
 
-* Based on [WinDesktop-Bing-wallpapers by Tim van de Kamp](https://github.com/user1/original-script1) and [Grant Hendricks' fork](https://github.com/gnhen/WinDesktop-Bing-wallpapers)
+* Based on [WinDesktop-Bing-wallpapers by Tim van de Kamp](https://github.com/timothymctim/Bing-wallpapers) and [Grant Hendricks' fork](https://github.com/gnhen/WinDesktop-Bing-wallpapers)
 * Combined by [Josh Kaspar](https://github.com/joshkaspar)
 * Licensed under the MIT License — see `LICENSE` for details
 
