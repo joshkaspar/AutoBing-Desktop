@@ -27,7 +27,7 @@ Make sure the `-DownloadFolder` *and* the default `%USERPROFILE%\Pictures\BingWa
     - `en-US` (United States, English)
     - `ja-JP` (Japan)
     - `fr-FR` (France)
-    - ... _(see [full list](https://github.com/joshkaspar/AutoBing-Desktop/blob/main/#L04-L42) in script source)_
+    - ... _(see [full list]((https://github.com/joshkaspar/AutoBing-Desktop/blob/main/AutoBing-Desktop.ps1#L04-L42) in script source)_
 - `-Resolution`  
     The image resolution to download.  
     **Default**: `auto` (auto-detects your screen)  
@@ -37,7 +37,7 @@ Make sure the `-DownloadFolder` *and* the default `%USERPROFILE%\Pictures\BingWa
     - `1920x1200`
     - `1920x1080`
     - `1366x768`
-    - ... _(see [full list](https://github.com/joshkaspar/AutoBing-Desktop/blob/main/#L48-L63) in script source)_
+    - ... _(see [full list](https://github.com/joshkaspar/AutoBing-Desktop/blob/main/AutoBing-Desktop.ps1/#L48-L63) in script source)_
 - `-DownloadFolder`  
     The folder to save Bing wallpapers.  
     **Default**: `%USERPROFILE%\Pictures\BingWallpapers`
